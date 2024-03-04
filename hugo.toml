@@ -1,0 +1,4 @@
+theme="dark-theme-editor"
+baseURL = 'https://example.org/'
+languageCode = 'zh-Hant-TW'
+title = '我的網站'
